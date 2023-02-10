@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoffeeShopRegistrationLab/1.0.0": {
+        "runtime": {
+          "CoffeeShopRegistrationLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeeShopRegistrationLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
